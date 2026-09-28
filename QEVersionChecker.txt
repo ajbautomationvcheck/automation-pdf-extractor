@@ -1,1 +1,4 @@
 2.6|N|(25-Sep) UoM Calculation Update & Charge Calculation Failure Fallback
+
+Thank you for enabling the Version Checker.
+You can now close this window and return to the tool. 
